@@ -1,3 +1,5 @@
+<img src="https://s3.us-east-2.amazonaws.com/wordontheamazon.com/NoMargin_NewLogo.png">
+
 # finding_schitts
 Building city profiles for cities in USA, segmenting the cities and building content-based recommendation system
 
