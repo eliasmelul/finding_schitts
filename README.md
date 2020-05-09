@@ -15,5 +15,7 @@ To view notebooks online, <a href = 'https://nbviewer.jupyter.org/github/eliasme
 
 # Articles with Explanations
 <a href='https://medium.com/@melulfrescoelias/city-recommender-system-with-python-part-1-finding-my-schitts-creek-f362646280b3'> Part 1 </a>
+
 <a href='https://medium.com/analytics-vidhya/city-recommender-system-with-python-part-2-finding-my-schitts-creek-da2f2cce2b5f'> Part 2 </a>
+
 <a href='https://medium.com/@melulfrescoelias/city-recommender-system-with-python-part-3-3-deployment-finding-my-schitts-creek-2019971e2c4d'> Part 3 </a>
